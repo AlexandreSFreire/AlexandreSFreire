@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Alexandre Freire 😁
+## Bem-vindo(a) ao perfil de Alexandre Freire
 
  <div>
    <a href="https://github.com/AlexandreSFreire">

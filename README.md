@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Alexandre Souza Freire!
+## 🎮 Olá, meu nome é Alexandre Souza Freire!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e também Engenharia de Software. 
 
